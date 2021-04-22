@@ -1,0 +1,25 @@
+body{
+    color:whitesmoke; 
+    background-color:darkolivegreen; 
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color:whitesmoke; 
+}
+
+#camera{
+    border:2px dashed whitesmoke;
+    width:350px;
+    height:350px;
+}
+
+hr{
+    height:2px;
+    background-color:whitesmoke; 
+    border:none; 
+}
